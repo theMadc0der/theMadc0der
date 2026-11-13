@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey there! I'm Kanishk 👋
+# Hey there! I'm Kanishk 
 
 ###  Diploma Student in Computer Science Engineering
 
